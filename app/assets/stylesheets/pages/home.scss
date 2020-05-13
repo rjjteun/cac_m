@@ -11,7 +11,7 @@ $orange: #F9BA0D;
   color: black;
   margin-top: 20px;
   color: white;
-  font-size: 40px;
+  font-size: 30px;
   margin: 30px 100px;
 }
 
@@ -20,6 +20,9 @@ $orange: #F9BA0D;
   background-color: #265584;
   width: 100%;
   height: 100%;
+  background-image: url(bg-cac-2.jpg);
+  background-size: cover;
+  padding-top: 50px
 }
 
 .home-container-bottom {

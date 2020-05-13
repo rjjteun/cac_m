@@ -1,0 +1,44 @@
+.top-what-container {
+  text-align: center;
+  background-color: #265584;
+  width: 100%;
+  height: 100%;
+  padding: 25px;
+}
+
+.first-container-what {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px;
+  background-color: #EEEEEE;
+}
+
+.what-title {
+  font-size: 50px;
+  padding: 50px 0px 20px 0px;
+}
+
+.container-image {
+  padding-top: 40px;
+}
+.first-icon-what {
+  width: 54px;
+  height: 54px;
+}
+
+.what-second-container {
+  padding: 30px 40px 30px 100px;
+  display: flex;
+  flex-direction: row;
+  border-top: solid 0.5px;
+  border-color: #c9c8bd;
+  margin: 10px 60px;
+}
+
+.second-container-text {
+  margin: 0px 60px;
+  padding: 30px 0px;
+}
