@@ -7,4 +7,8 @@ Rails.application.routes.draw do
   get 'contact', to: 'pages#contact'
 
   get 'linkage', to: 'pages#linkage'
+
+  get 'what', to: 'pages#what'
+
+  get 'services', to: 'pages#services'
 end

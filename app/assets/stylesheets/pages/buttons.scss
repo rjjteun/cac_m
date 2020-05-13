@@ -1,14 +1,44 @@
+$blue: #337AB7;
+$orange: #F9BA0D;
+
 .button {
   background-color: #454851;
-  border-color: #F9BA0D;
-  border-width: 3px;
+  border-color: $orange;
+  border-width: 2px;
   border-radius: 50px;
-  color: white;
   margin: 30px;
-  padding: 10px 20px;
+  padding: 7px 25px;
+  font-size: 15px;
+  color: $orange;
 }
 
 .button:hover {
-  background-color: #F9BA0D;
+  background-color: $orange;
   color: #454851;
+}
+
+.home-blue-button {
+  border-radius: 100px;
+  border: 2px solid $blue;
+  font-size: 20px;
+  font-weight: bold;
+  color: $blue;
+}
+
+.home-blue-button:hover {
+  background-color: $blue;
+  color: White;
+}
+
+.home-orange-button {
+  border-radius: 100px;
+  border: 2px solid $orange;
+  font-size: 20px;
+  font-weight: bold;
+  color: $orange;
+}
+
+.home-orange-button:hover {
+  background-color: $orange;
+  color: White;
 }

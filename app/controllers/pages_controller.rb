@@ -6,4 +6,8 @@ class PagesController < ApplicationController
   def contact; end
 
   def linkage; end
+
+  def what; end
+
+  def services; end
 end
