@@ -11,4 +11,6 @@ Rails.application.routes.draw do
   get 'what', to: 'pages#what'
 
   get 'services', to: 'pages#services'
+
+  get 'practices', to: 'pages#practices'
 end

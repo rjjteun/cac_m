@@ -10,4 +10,6 @@ class PagesController < ApplicationController
   def what; end
 
   def services; end
+
+  def practices; end
 end

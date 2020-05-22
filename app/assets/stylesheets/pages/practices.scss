@@ -1,0 +1,43 @@
+.margin-services {
+  background-color: #EEEEEE;
+}
+
+.services-subtitle h1 {
+  font-weight: 200;
+  font-size: 50px;
+  padding: 50px;
+}
+
+.services-subtitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.centered-table-services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 75px 75px 75px 150px;
+}
+
+.line-between-table-practices {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.margin-table-practices {
+  padding-top: 70px;
+}
+
+.div-table-practices {
+  padding: 75px 20px 0px 20px;
+}
+
+.contact-div-btn-practices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  padding: 50px;
+}

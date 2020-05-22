@@ -42,3 +42,15 @@ $orange: #F9BA0D;
   background-color: $orange;
   color: White;
 }
+
+.button-practices {
+  border: 2px solid $orange;
+  color: $orange;
+  border-radius: 50px;
+  width: 300px;
+  font-weight: bold;
+}
+
+.button-practices:hover {
+  background-color: $orange;
+}
